@@ -2,10 +2,7 @@ package pages;
 
 import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.Selenide;
-import com.codeborne.selenide.SelenideElement;
-
 import java.io.File;
-
 import static com.codeborne.selenide.Selenide.$x;
 
 public class PracticeFormPage {
