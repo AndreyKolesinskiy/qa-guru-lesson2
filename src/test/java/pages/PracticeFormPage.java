@@ -77,9 +77,8 @@ public class PracticeFormPage {
         return this;
     }
 
-    public PracticeFormPage clickSubmitButton() {
+    public void clickSubmitButton() {
         $x("//*[@id='submit']").click();
-        return this;
     }
 
     public PracticeFormPage checkStudentName(String studentName) {

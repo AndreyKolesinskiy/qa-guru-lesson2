@@ -12,8 +12,8 @@ public class PracticeFormTests extends BaseTest {
     String mothOfBirth = "June";
     String dayOfBirth = "12";
     String subject = "Math";
-    String filePath = "src/test/resources/test.jpg";
-    String pictureName = "test.jpg";
+    String filePath = "src/test/resources/testFile.jpg";
+    String pictureName = "testFile.jpg";
     String address = "Test address";
     String state = "Haryana";
     String city = "Karnal";
